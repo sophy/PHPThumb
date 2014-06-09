@@ -745,7 +745,7 @@ class GD extends PHPThumb
      * Rotates image either 90 degrees clockwise or counter-clockwise
      *
      * @param string $direction
-     * @retunrn \PHPThumb\GD
+     * @return \PHPThumb\GD
      */
     public function rotateImage($direction = 'CW')
     {
